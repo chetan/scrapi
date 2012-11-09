@@ -14,7 +14,7 @@ EOF
   spec.require_path = 'lib'
   spec.autorequire = 'scrapi.rb'
   spec.requirements << 'Tidy_ffi'
-  spec.required_ruby_version = '>= 1.9.1'
+  #spec.required_ruby_version = '>= 1.9.1'
   spec.has_rdoc = true
   spec.rdoc_options << '--main' << 'README.rdoc' << '--title' <<  "scrAPI toolkit for Ruby" << '--line-numbers'
   spec.extra_rdoc_files = ['README.rdoc']
