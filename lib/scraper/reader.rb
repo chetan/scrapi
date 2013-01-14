@@ -11,6 +11,7 @@ require "net/https"
 begin
   require "rubygems"
   require "tidy_ffi"
+  require "tidy_ffi/interface"
 rescue LoadError
 end
 

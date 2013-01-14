@@ -7,9 +7,9 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    ffi (1.1.5)
-    tidy_ffi (0.1.4)
-      ffi (>= 0.3.5)
+    ffi (1.2.1)
+    tidy_ffi (0.1.5)
+      ffi (~> 1.2.0)
 
 PLATFORMS
   ruby
